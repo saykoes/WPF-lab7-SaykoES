@@ -1,0 +1,15 @@
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\SaykoES\WPF-lab7-SaykoES\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
